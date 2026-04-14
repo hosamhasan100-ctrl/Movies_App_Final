@@ -1,5 +1,8 @@
 # 🎬 Movies App
 
+https://github.com/user-attachments/assets/dec806dd-52d8-42bd-929f-7e696acad150
+
+
 A comprehensive Flutter application that allows users to explore, discover, and watch movies with detailed information about cast, summaries, genres, and more. The app features Firebase authentication, real-time movie updates, personalized watchlists, and viewing history.
 
 ## ✨ Features
