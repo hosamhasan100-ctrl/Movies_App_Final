@@ -86,8 +86,9 @@ A comprehensive Flutter application that allows users to explore, discover, and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movies-app.git
-   cd movies-app
+   git clone https://github.com/hosamhasan100-ctrl/Movies_App_Final.git
+cd Movies_App_Final
+
    ```
 
 2. **Install dependencies**
